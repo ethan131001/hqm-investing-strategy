@@ -1,6 +1,6 @@
 # High-Quality Momentum Investing Strategy for S&P 500
 
-This project implements a **Quantitative Momentum Strategy** in Python using the S&P 500 stock data. The strategy is built on identifying stocks with strong momentum by calculating the percentile rank for different time periods (1 month, 3 months, 6 months, 1 year) and selecting top-performing stocks.
+This project implements a **Quantitative Momentum Strategy** in Python using the S&P 500 stock data. The strategy is built on identifying stocks with strong momentum by calculating the percentile rank for different time periods (1 month, 3 months, 6 months, 1 year) and selecting top-performing stocks. **NOTE: Backtest strategy currently not working, IGNORE.**
 
 ## Features
 
